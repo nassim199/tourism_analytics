@@ -1,4 +1,4 @@
-let serveur = 'https://lucid-bassi-e706c4.netlify.app/'
+let serveur = 'https://lucid-bassi-e706c4.netlify.app/data/'
 
 function unpack(rows, key) {
   return rows.map(function (row) { return row[key]; });
