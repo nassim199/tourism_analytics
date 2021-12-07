@@ -1,4 +1,4 @@
-let serveur = 'http://127.0.0.1:5500/'
+let serveur = 'https://lucid-bassi-e706c4.netlify.app/'
 
 function unpack(rows, key) {
   return rows.map(function (row) { return row[key]; });
