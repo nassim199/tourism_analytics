@@ -580,16 +580,16 @@ d3.csv(serveur + `${site}.csv`, function (rows) {
         speed: 500
       },
     },
-    series: rows.map(row => {
+    series: rows.map((row,i) => {
       let colors = [
-        '#62fc98',
-        '#62c7fc',
-        '#e1254d'
+        '#123456',
+        '#9e9e9e',
+        '#BC4676'
       ]
       return {
         text: row[''],
         values: [parseInt(row['Sentiment'])],
-        backgroundColor: 
+        backgroundColor: colors[i]
       }
     })
   };
