@@ -32,8 +32,8 @@ function openCity(evt, cityName) {
 }
 
 
-var slideIndex = 3;
-var slideIndex2 = 2;
+var slideIndex = 1;
+var slideIndex2 = 1;
 var slideIndex3 = 1;
 
 
