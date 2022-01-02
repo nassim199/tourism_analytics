@@ -24,7 +24,7 @@ Le projet a été divisé principalement en trois parties majeures:
   * Analyses, qui se caracterisent en trois types d'analyses principaux: Analyses descriptive generales, Analyse de flux geographique des flux et analyses textuelles sur les avis des touristes
 - Datavisualisation et affichage des resultats via une interface web (On utilise particulierement la bibliotheque ZingChart pour la representation des differents graphes et cartes)
 
-Ceci est le [lien](https://lucid-bassi-e706c4.netlify.app/) vers le site afin de percevoir les resultats de notre analyse.
+Ceci est le [lien](https://lucid-bassi-e706c4.netlify.app/) vers le site afin de percevoir les resultats de notre analyse.(veuillez utiliser chrome ou microsoft edge)
 
 Le projet a été realisé par :
 - Hammadou Nassim
